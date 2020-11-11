@@ -1,0 +1,16 @@
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.UI.exe
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.UI.deps.json
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.UI.runtimeconfig.json
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.UI.runtimeconfig.dev.json
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.UI.dll
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.UI.pdb
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.dll
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\bin\Debug\netcoreapp3.1\ConwaysTDD.pdb
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.csprojAssemblyReference.cache
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.AssemblyInfoInputs.cache
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.AssemblyInfo.cs
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.csproj.CoreCompileInputs.cache
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.csproj.CopyComplete
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.dll
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.pdb
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD.UI\obj\Debug\netcoreapp3.1\ConwaysTDD.UI.genruntimeconfig.cache

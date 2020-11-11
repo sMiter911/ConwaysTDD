@@ -1,0 +1,9 @@
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\obj\Debug\netcoreapp3.1\ConwaysTDD.csprojAssemblyReference.cache
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\obj\Debug\netcoreapp3.1\ConwaysTDD.AssemblyInfoInputs.cache
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\obj\Debug\netcoreapp3.1\ConwaysTDD.AssemblyInfo.cs
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\obj\Debug\netcoreapp3.1\ConwaysTDD.csproj.CoreCompileInputs.cache
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\bin\Debug\netcoreapp3.1\ConwaysTDD.deps.json
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\bin\Debug\netcoreapp3.1\ConwaysTDD.dll
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\bin\Debug\netcoreapp3.1\ConwaysTDD.pdb
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\obj\Debug\netcoreapp3.1\ConwaysTDD.dll
+C:\Users\Wandumuzi\source\repos\ConwaysTDD\ConwaysTDD\obj\Debug\netcoreapp3.1\ConwaysTDD.pdb
